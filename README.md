@@ -1,4 +1,9 @@
-### Hi there 👋
+### Heya
+I'm VSilly (Very Silly) 
+- wow so cool what do you work on???
+- idfk
+
+![IMG_7155](https://github.com/vsilly/vsilly/assets/154896640/c52c44c3-31b8-4650-ae45-8869e748dffc)
 
 <!--
 **vsilly/vsilly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
